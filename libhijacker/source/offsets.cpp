@@ -277,7 +277,7 @@ size_t root_vnode() {
 		case V502:
 		case V510:
 		case V550:
-			return 0x6853510:
+			return 0x6853510;
 		default:
 			return -1;
 	}
